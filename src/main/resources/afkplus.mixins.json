@@ -4,12 +4,8 @@
   "package": "io.github.sakuraryoko.afkplus.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
-    "PhantomSpawnerMixin",
-    "PlayerManagerMixin",
-    "ServerPlayerEntityMixin",
-    "ServerPlayerInteractionManagerMixin",
-    "ServerPlayNetworkMixin",
-    "SleepManagerMixin"
+    "PhantomSpawnerMixin", "PlayerEntityMixin", "PlayerManagerMixin", "ServerPlayerEntityMixin",
+    "ServerPlayerInteractionManagerMixin", "ServerPlayNetworkMixin", "SleepManagerMixin"
   ],
   "client": [],
   "server": [],
